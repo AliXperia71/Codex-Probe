@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Recorded sessions can contain prompts, source code and credentials-adjacent
+# metadata. Committed samples belong in a curated directory, not here.
+codex_probe_logs/
