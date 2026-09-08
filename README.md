@@ -59,7 +59,7 @@ formats actually differ on.
 ## Install
 
 ```bash
-cd codex_probe
+cd Codex-Probe
 pip install -e ".[dev]"
 ```
 
