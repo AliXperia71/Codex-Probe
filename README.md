@@ -1,4 +1,4 @@
-# CodexProbe
+# Codex Probe
 
 A local recording reverse-proxy for the OpenAI **Codex CLI**. It sits at Codex's
 `model_providers.<name>.base_url` extension point and does two things:
